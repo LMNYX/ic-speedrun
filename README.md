@@ -14,4 +14,4 @@ Neal.fun Infinite Craft word speedrunning thing idk
 
 ## Code
 
-Idk this shit works and that's all that matters right, you can review it, i dont do shit with your data.
+idk, you can do whatever, contribute or fork, leave credit if u fork. if u can make it wouth a hacky way with `fetch` pull request ok cuz im acoustic
